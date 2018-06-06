@@ -1,7 +1,7 @@
 MultiCompDE1
 ============
 
-Port of Grant Searle's MultiComp to the Altera DE1
+Port of Grant Searle's MultiComp to the Altera DE1 with support of the SDHC Card (> 2GB) (SDHC Card code from Rienk Koolstra) 
 
 ## License
 
