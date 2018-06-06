@@ -3,6 +3,10 @@ MultiCompDE1
 
 Port of Grant Searle's MultiComp to the Altera DE1 with support of the SDHC Card (> 2GB) (SDHC Card code from Rienk Koolstra) 
 
+For convenience you can use the Multicomp FPGA - CP/M Demo Disk from Obsolescence Guaranteed:
+http://obsolescence.wixsite.com/obsolescence/multicomp-fpga-cpm-demo-disk
+
+
 ## License
 
 __Software and VHDL project download link__
